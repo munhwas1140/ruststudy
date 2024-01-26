@@ -5,17 +5,29 @@
       <sourceFolder url="file://$MODULE_DIR$/branches/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/backyard/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my-project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/backyard/target" />
+      <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/functions/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/functions/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/build/libc-a0567ac7bb6e55ce/out" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/my-project/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/loops/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/loops/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/rectangles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target/debug/examples" />
     </content>
