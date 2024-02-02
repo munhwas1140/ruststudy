@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rectangles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
@@ -32,6 +33,7 @@
       <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
