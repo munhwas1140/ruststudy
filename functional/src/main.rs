@@ -60,4 +60,5 @@ fn main() {
         .join()
         .unwrap();
 
+    let id = thread::current().id();
 }
